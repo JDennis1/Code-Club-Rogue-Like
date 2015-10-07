@@ -1,0 +1,7 @@
+# Code-Club-Rogue-Like
+echo # Code-Club-Rogue-Like >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/JDennis1/Code-Club-Rogue-Like.git
+git push -u origin master
